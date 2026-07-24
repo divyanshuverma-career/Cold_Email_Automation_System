@@ -340,3 +340,17 @@ Sending a large number of unsolicited emails may violate the policies of email p
 # License
 
 This project is intended for educational and personal use. Feel free to modify and improve it according to your needs.
+
+---
+
+## 💙 Built with Python by Divyanshu Verma
+
+Thanks for checking out this project!
+
+I created this tool to simplify my internship outreach process by automating personalized cold emails and follow-ups. If it saves you time or helps you in your job search, I'd love to hear about it.
+
+If you found this project useful, consider giving it a ⭐ on GitHub. Feedback, suggestions, and contributions are always welcome!
+
+**Connect with me:**
+- GitHub: https://github.com/divyanshuverma-career
+- LinkedIn: www.linkedin.com/in/divyanshuverma-career
